@@ -1,0 +1,1 @@
+# codesys-plc-software-versioning-local
